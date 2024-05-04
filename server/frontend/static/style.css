@@ -124,3 +124,27 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.contact-info {
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+}
+
+.contact-info h3 {
+  color: darkturquoise;
+}
+
+.contact-info p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+.contact-info h3 {
+    color: darkturquoise;
+  }
+  
+  .contact-info p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
